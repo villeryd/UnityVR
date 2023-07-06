@@ -1,4 +1,4 @@
-# ignore these files
+# ignore these files!
 
 /Library/
 /Logs/
@@ -8,3 +8,4 @@
 /Builds/
 /ProjectSettings/
 /Packages/
+
