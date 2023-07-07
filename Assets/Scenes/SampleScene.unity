@@ -130,9 +130,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 100000, guid: c1232b0a1b78ddf44bd877453fb7a84c, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: c1232b0a1b78ddf44bd877453fb7a84c, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 100004, guid: c1232b0a1b78ddf44bd877453fb7a84c, type: 3}
       propertyPath: m_Name
       value: pistol
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: c1232b0a1b78ddf44bd877453fb7a84c, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: c1232b0a1b78ddf44bd877453fb7a84c, type: 3}
       propertyPath: m_RootOrder
@@ -215,6 +227,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bowling Pin 4
       objectReference: {fileID: 0}
+    - target: {fileID: 6540799998461908549, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6540799998461908569, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -282,7 +298,7 @@ GameObject:
   - component: {fileID: 68884118}
   - component: {fileID: 68884122}
   - component: {fileID: 68884121}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: XR Origin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -474,6 +490,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bowling Pin 5
       objectReference: {fileID: 0}
+    - target: {fileID: 6540799998461908549, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6540799998461908569, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -534,7 +554,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 182935922}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Pins
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -609,7 +629,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 452829230}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Attach point
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1122,7 +1142,7 @@ GameObject:
   - component: {fileID: 662552033}
   - component: {fileID: 662552032}
   - component: {fileID: 662552031}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1444,6 +1464,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bowling Pin 3
       objectReference: {fileID: 0}
+    - target: {fileID: 6540799998461908549, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6540799998461908569, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -1619,6 +1643,10 @@ PrefabInstance:
     - target: {fileID: 6540799998461908549, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
       propertyPath: m_Name
       value: Bowling Pin 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6540799998461908549, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6540799998461908569, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
       propertyPath: m_RootOrder
@@ -1902,6 +1930,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bowling Pin 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6540799998461908549, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6540799998461908569, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -2035,7 +2067,7 @@ GameObject:
   - component: {fileID: 1470769967}
   - component: {fileID: 1470769966}
   - component: {fileID: 1470769975}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2274,6 +2306,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bowling Pin 10
       objectReference: {fileID: 0}
+    - target: {fileID: 6540799998461908549, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6540799998461908569, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -2335,6 +2371,10 @@ PrefabInstance:
     - target: {fileID: 6540799998461908549, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
       propertyPath: m_Name
       value: Bowling Pin 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6540799998461908549, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6540799998461908569, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
       propertyPath: m_RootOrder
@@ -2500,6 +2540,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bowling Pin 8
       objectReference: {fileID: 0}
+    - target: {fileID: 6540799998461908549, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6540799998461908569, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -2560,7 +2604,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2003270841}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Spawn Point
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2900,6 +2944,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bowling Pin 9
       objectReference: {fileID: 0}
+    - target: {fileID: 6540799998461908549, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6540799998461908569, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -2961,6 +3009,10 @@ PrefabInstance:
     - target: {fileID: 6540799998461908549, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
       propertyPath: m_Name
       value: Bowling Pin 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6540799998461908549, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6540799998461908569, guid: f13a2ba64eea773478db599a22f446a5, type: 3}
       propertyPath: m_RootOrder
